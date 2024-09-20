@@ -33,5 +33,41 @@ Compiled program for use. The program can be run on the operating system, just c
 
 ![image](https://github.com/user-attachments/assets/927da5fb-da47-4ea9-b5ee-68b7fd080738)
 
+### File "Untitled.rtm"
+![image](https://github.com/user-attachments/assets/57956d1e-b6eb-4dea-a8c9-ade059594552)
+![image](https://github.com/user-attachments/assets/b6265a94-38ff-4da9-a3c0-b2b6429140dc)
+
 ### The appearance of the work program
 ![image](https://github.com/user-attachments/assets/26c3f8d2-7e20-4857-809b-d68e90b331f5)
+
+## Calculator сlassic
+### Code
+![image](https://github.com/user-attachments/assets/37e8d2a8-8583-4384-9b55-f6daa530f5db)
+
+...
+
+![image](https://github.com/user-attachments/assets/14fa79b2-e2c9-4852-a553-ee99bb191dd1)
+
+...
+
+![image](https://github.com/user-attachments/assets/8dae9184-b173-4eae-8b03-55625712a885)
+
+...
+
+![image](https://github.com/user-attachments/assets/ae7b13fa-6a4c-4863-a0ac-ef467eb7c914)
+
+### File "менюха.rtm"
+
+![image](https://github.com/user-attachments/assets/cfebd528-cb4d-45ad-b25c-3d3e08820701)
+
+### The appearance of the work program
+![image](https://github.com/user-attachments/assets/4219b1c8-88b7-4258-b778-44ec21bfbda4)
+
+
+
+
+
+
+
+
+
