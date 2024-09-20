@@ -21,3 +21,17 @@
 
 ### The appearance of the work program
 ![image](https://github.com/user-attachments/assets/39bc075a-9098-4ed8-bd76-5d2e86f86cf0)
+
+## Calculator builds (My Application)
+Compiled program for use. The program can be run on the operating system, just copy the files.
+
+## Calculator with a queue
+### Code
+![image](https://github.com/user-attachments/assets/554a69a2-0f75-4564-a5f9-c60e9d05a748)
+
+...
+
+![image](https://github.com/user-attachments/assets/927da5fb-da47-4ea9-b5ee-68b7fd080738)
+
+### The appearance of the work program
+![image](https://github.com/user-attachments/assets/26c3f8d2-7e20-4857-809b-d68e90b331f5)
