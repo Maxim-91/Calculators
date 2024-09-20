@@ -27,6 +27,8 @@ Compiled program for use. The program can be run on the operating system, just c
 
 ## Calculator with a queue
 ### Code
+![image](https://github.com/user-attachments/assets/51690ff4-fa28-4b20-8e58-2fa6b20e9065)
+
 ![image](https://github.com/user-attachments/assets/554a69a2-0f75-4564-a5f9-c60e9d05a748)
 
 ...
@@ -42,6 +44,8 @@ Compiled program for use. The program can be run on the operating system, just c
 
 ## Calculator сlassic
 ### Code
+![image](https://github.com/user-attachments/assets/d87c80a6-0e73-4116-a6bb-3f53d9947526)
+
 ![image](https://github.com/user-attachments/assets/37e8d2a8-8583-4384-9b55-f6daa530f5db)
 
 ...
